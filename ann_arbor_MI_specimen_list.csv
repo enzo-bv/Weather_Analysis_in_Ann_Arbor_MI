@@ -1627,12 +1627,12 @@ Catalog Number	Species	Collector	Collection Date	Location
 187949	1227142 Mentha spicata 		 Lamiaceae	Frederick J. Hermann	6949: 08/11/1935
 187950	1227143 Mentha spicata 		 Lamiaceae	George B. Sudworth	: 08/24/1884
 187952	 Lycopus americanus 		 Lamiaceae	Frederick J. Hermann	8370: 08/19/1936
-188117	1227113 Mentha × piperita 		 Lamiaceae	Elizabeth C. Almendinger	: 08/09/1860
-188118	1227114 Mentha × piperita 		 Lamiaceae	W.S. Cheever	: 00/00/1886
-188119	1227115 Mentha × piperita 		 Lamiaceae	Carl D. LaRue	: 09/09/1915
-188120	1227116 Mentha × piperita 		 Lamiaceae	A.J. Pieters	: 08/20/1892
-188121	1227117 Mentha × piperita 		 Lamiaceae	A.J. Pieters	62: 09/16/1892
-188122	1227118 Mentha × piperita 		 Lamiaceae	George B. Sudworth	: 08/24/1884
+188117	1227113 Mentha Ã— piperita 		 Lamiaceae	Elizabeth C. Almendinger	: 08/09/1860
+188118	1227114 Mentha Ã— piperita 		 Lamiaceae	W.S. Cheever	: 00/00/1886
+188119	1227115 Mentha Ã— piperita 		 Lamiaceae	Carl D. LaRue	: 09/09/1915
+188120	1227116 Mentha Ã— piperita 		 Lamiaceae	A.J. Pieters	: 08/20/1892
+188121	1227117 Mentha Ã— piperita 		 Lamiaceae	A.J. Pieters	62: 09/16/1892
+188122	1227118 Mentha Ã— piperita 		 Lamiaceae	George B. Sudworth	: 08/24/1884
 188292	1226700 Lycopus americanus 		 Lamiaceae	Frederick J. Hermann	8377: 08/19/1936
 188293	1226701 Lycopus americanus 		 Lamiaceae	Carl D. LaRue	: 08/07/1913
 188294	1226702 Lycopus americanus 		 Lamiaceae	Cyrus L. Lundell	8306: 10/04/1939
@@ -4597,7 +4597,7 @@ Catalog Number	Species	Collector	Collection Date	Location
 376086	1345598 Ranunculus flabellaris 		 Ranunculaceae	Julius P. Romein	s.n.: 05/07/1915
 376088	 Ranunculus flabellaris 		 Ranunculaceae	J.A. Sanford	s.n.: 00/00/00
 376116	1319872 Lobelia siphilitica 		 Campanulaceae	Carl D. LaRue	s.n.: 08/14/1915
-376117	1319871 Salix fragilis 		or × S. alba Salicaceae	A.J. Pieters	s.n.: 05/16/1893
+376117	1319871 Salix fragilis 		or Ã— S. alba Salicaceae	A.J. Pieters	s.n.: 05/16/1893
 376121	1319867 Leonurus cardiaca 		 Lamiaceae	Carl D. LaRue	s.n.: 08/14/1915
 376123	1334694 Jeffersonia diphylla 		 Berberidaceae	N.D. Corbin	s.n.: 00/00/00
 376125	1334696 Mentha canadensis 		 Lamiaceae	Carl D. LaRue	s.n.: 08/30/1915
@@ -6825,7 +6825,7 @@ Catalog Number	Species	Collector	Collection Date	Location
 442676	1477971 Scrophularia marilandica 		 Scrophulariaceae	William S. Benninghoff	10864: 08/21/1962
 442677	1477972 Maianthemum racemosum 		 Convallariaceae	William S. Benninghoff	10666: 05/30/1962
 442678	1477973 Leersia oryzoides 		 Poaceae	William S. Benninghoff	10854: 08/07/1962
-442679	1477974 Lonicera × bella 		 Caprifoliaceae	William S. Benninghoff	10639: 05/22/1962
+442679	1477974 Lonicera Ã— bella 		 Caprifoliaceae	William S. Benninghoff	10639: 05/22/1962
 442680	1477975 Cryptotaenia canadensis 		 Apiaceae	William S. Benninghoff	10654: 05/30/1962
 442681	1477976 Circaea canadensis 		 Onagraceae	William S. Benninghoff	10793: 07/03/1962
 442682	1477977 Oxalis stricta 		 Oxalidaceae	William S. Benninghoff	10836: 08/01/1962
@@ -7289,7 +7289,7 @@ Catalog Number	Species	Collector	Collection Date	Location
 473535	1102368 Carex cristatella 		 Cyperaceae	Beverly S. Walters	1413: 06/23/2013
 473537	1102482 Galium concinnum 		 Rubiaceae	Beverly S. Walters	1201: 05/31/2012
 473538	1102437 Convallaria majalis 		 Convallariaceae	Beverly S. Walters	1380: 05/19/2013
-473539	1102402 Lonicera × bella 		 Caprifoliaceae	Beverly S. Walters	1381: 05/19/2013
+473539	1102402 Lonicera Ã— bella 		 Caprifoliaceae	Beverly S. Walters	1381: 05/19/2013
 473540	1102418 Thuja occidentalis 		 Cupressaceae	Beverly S. Walters	1382: 05/19/2013
 473541	1102444 Lonicera morrowii 		 Caprifoliaceae	Beverly S. Walters	1383: 05/19/2013
 473542	1102488 Galium tinctorium 		 Rubiaceae	Beverly S. Walters	1312: 07/24/2012
@@ -7311,7 +7311,7 @@ Catalog Number	Species	Collector	Collection Date	Location
 473567	1102361 Carex bromoides 		 Cyperaceae	Beverly S. Walters	1374: 05/19/2013
 473568	1102427 Euonymus obovatus 		 Celastraceae	Beverly S. Walters	1375: 05/19/2013
 473569	1102355 Crataegus macrosperma 		 Rosaceae	Beverly S. Walters	1376: 05/19/2013
-473570	1102393 Lonicera × bella 		 Caprifoliaceae	Beverly S. Walters	1377: 05/19/2013
+473570	1102393 Lonicera Ã— bella 		 Caprifoliaceae	Beverly S. Walters	1377: 05/19/2013
 473571	1102372 Carex normalis 		 Cyperaceae	Beverly S. Walters	1402: 06/16/2013
 473572	1102390 Ligustrum vulgare 		 Oleaceae	Beverly S. Walters	1403: 06/16/2013
 473573	1102348 Rubus setosus 		 Rosaceae	Beverly S. Walters	1404: 06/16/2013
